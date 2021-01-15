@@ -1,3 +1,3 @@
 # 💻  Live Demo
 
-See how the portfolio looks 👉 @ [photowall](https://photowallreact.netlify.app/) 
+See how the portfolio looks 👉 @ [photowall](https://photowall-reactjs.netlify.app/) 
